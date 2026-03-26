@@ -15,8 +15,6 @@
 
 > I design and build scalable systems combining **AI, Computer Vision, and automation** to solve complex real-world business problems.
 
----
-
 ## 🧠 Focus
 
 * Designing **complex system architecture (enterprise-grade)**
@@ -24,8 +22,6 @@
 * Developing **Computer Vision solutions for real-world use**
 * Creating **end-to-end automation ecosystems**
 * Integrating **data, AI, and operations into unified systems**
-
----
 
 ## 🚀 Selected Projects
 
@@ -51,8 +47,6 @@
   Multi-trigger workflow automation across departments
   → Reduced manual processes significantly
 
----
-
 ## 🛠️ What I Build
 
 * 🤖 AI systems (LLM, automation, decision engines)
@@ -72,40 +66,39 @@
 - **Rapid prototyping** - Full apps in days, not months
 - **[Speaking at conferences](https://github.com/sinukarta/speaking)** - On vibe coding vs agentic engineering and the future of development
 
----
-
 ## ⚙️ Tech Stack
 
 ### 💻 Core Development
 
-* JavaScript (Node.js)
-* React
-* PHP
-* Python
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Node.js](https://nodejs.org/)
+* [React](https://react.dev/)
+* [PHP](https://www.php.net/)
+* [Python](https://www.python.org/)
 * REST API Architecture
 
 ### 🧠 AI / LLM Ecosystem
 
-* ChatGPT / Codex
-* Claude
-* Gemini
-* Perplexity
-* Grok
-* Manus
-* Genspark
-* BytePlus AI
+* [ChatGPT](https://chat.openai.com/) / [Codex](https://openai.com/)
+* [Claude](https://www.anthropic.com/)
+* [Gemini](https://deepmind.google/technologies/gemini/)
+* [Perplexity](https://www.perplexity.ai/)
+* [Grok](https://x.ai/)
+* [Manus AI](https://manus.ai/)
+* [Genspark](https://www.genspark.ai/)
+* [BytePlus](https://www.byteplus.com/en)
 
 ### 👁️ Computer Vision
 
-* OpenCV
-* Object Detection Models (YOLO, etc)
+* [OpenCV](https://opencv.org/)
+* [YOLO](https://pjreddie.com/darknet/yolo/)
 * Image Processing Pipelines
 * Video Stream Processing
 
 ### 🗄️ Data & Infrastructure
 
-* PostgreSQL
-* MySQL
+* [PostgreSQL](https://www.postgresql.org/)
+* [MySQL](https://www.mysql.com/)
 * Data Pipelines
 * Analytics Systems
 * Data Visualization
@@ -114,9 +107,7 @@
 
 * Workflow automation systems
 * API orchestration
-* System integration (multi-platform)
-
----
+* Distributed system architecture
 
 ## 📊 Case Studies
 
@@ -132,8 +123,6 @@
 * Reduced dependency on single model
 * Improved system resilience
 
----
-
 ### 👁️ Computer Vision Surveillance System
 
 * Developed real-time object detection system
@@ -145,8 +134,6 @@
 * Automated monitoring processes
 * Reduced human intervention
 * Faster incident detection
-
----
 
 ### 📊 Enterprise Data Platform
 
@@ -160,8 +147,6 @@
 * Faster reporting & insights
 * Improved strategic decisions
 
----
-
 ### ⚙️ Automation System (Cross-Department)
 
 * Designed event-driven automation workflows
@@ -173,8 +158,6 @@
 * Reduced manual workload significantly
 * Improved operational consistency
 * Increased efficiency across teams
-
----
 
 ### 🔗 System Integration Architecture
 
@@ -188,7 +171,31 @@
 * Easier integration for new services
 * Long-term scalability
 
----
+## 🎤 Media & Speaking
+
+### 🎓 International Tech Sharing (UGM x Singapore Polytechnic)
+
+👉 https://www.youtube.com/watch?v=KjdF0iU3vKw&list=PL0OT1CxCqrPBY37AFrpDnriJm2u4tLbfb
+
+Sharing insights on **technology, innovation, and real-world implementation** with international academic collaboration.
+Focus on bridging **theory → practical system building**.
+
+### 📺 TV Appearance (Kompas TV / RBTV)
+
+👉 https://www.youtube.com/watch?v=yyWjo2YHX64&list=PL0OT1CxCqrPBY37AFrpDnriJm2u4tLbfb&index=2
+
+Featured as **technology expert & speaker**, discussing real-world tech trends, system implementation, and digital transformation.
+Positioned as practitioner with **hands-on experience**.
+
+### 🚀 Startup Community Speaker
+
+👉 https://www.youtube.com/watch?v=CVLtLgFaJS4&list=PL0OT1CxCqrPBY37AFrpDnriJm2u4tLbfb&index=3
+
+Mentoring and guiding startup founders on:
+
+* Building scalable systems
+* Leveraging technology for growth
+* Practical implementation strategies
 
 ## 🔬 How I Work
 
@@ -199,23 +206,19 @@
 3. Build modular systems
 4. Optimize with data & iteration
 
----
-
 ## 🎯 Who I Work With
 
 * Enterprise companies with complex system needs
 * SMEs scaling operations & infrastructure
 * Startups building advanced tech systems
 
----
-
 ## 📬 Work With Me
 
 I work with companies building **complex, scalable, and intelligent systems**.
 
-* 💼 LinkedIn: (add)
-* 🌐 Website: (add)
-* 📧 Email: (add)
+* 💼 LinkedIn: [(add)](https://www.linkedin.com/in/sinukarta/)
+* 🌐 Website: [(add)](https://www.sinukarta.me/)
+* 📧 Email: sinukarta@gmail.com
 
 👉 Available for:
 
@@ -224,8 +227,6 @@ I work with companies building **complex, scalable, and intelligent systems**.
 * Computer Vision Systems
 * Automation & Integration
 
----
-
 ## ⚡ Edge
 
 * Strong in **complex system design**
@@ -233,16 +234,12 @@ I work with companies building **complex, scalable, and intelligent systems**.
 * Focus on **real-world implementation**
 * Builds systems that **scale in production**
 
----
-
 ## 🔭 Direction
 
 * AI-native system architecture
 * Autonomous business systems
 * Computer vision-driven automation
 * Distributed intelligent systems
-
----
 
 ## Philosophy
 
@@ -272,3 +269,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
