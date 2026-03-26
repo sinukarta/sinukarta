@@ -24,15 +24,15 @@
 * Integrating **data, AI, and operations into unified systems**
 
 ## Current Personal Projects
-
+- ☤  **[Hermes Agents](https://github.com/NousResearch/hermes-agent)** - the AI that actually does things (still on progress)
 - 🦞 **[OpenClaw](https://openclaw.ai)** - the AI that actually does things
-- 🤖 **[VisionAI™](https://github.com/sinukarta/VisionAI)** - Most Complex Dashboard and Backend Computer Vision colaboration with IOH™
-- 🎚️ **[Nara SmartHome™](https://github.com/sinukarta/smarthome)** - Your best choise smarthome tech
-- 👻 **[Jogja10k](https://github.com/sinukarta/jogja10k)** - Running Apps for Jogja10K.run "Every Step Tells a Story"
-- 🚀 **[Loova](https://github.com/sinukarta/Loova)** - SmartApps Collaboration with BytePlus
-- 📝 **[Koperasi Pandawa](https://github.com/sinukarta/KoperasiPandawa)** - Pandawa Koperasi UMKM Apps
-- 🧮 **[Sales Monitoring Apps]** - Sales and Marketing Monitoring Apps
-- 🧙‍♂️ **[Smart Slide AI](https://github.com/sinukarta/Smart-SlideAI)** - Smart Slides Apps
+- 🤖 **[VisionAI™](https://github.com/sinukarta/VisionAI)** - Most Complex Dashboard and Backend Computer Vision colaboration with IOH™ (private repo)
+- 🎚️ **[Nara SmartHome™](https://github.com/sinukarta/smarthome)** - Your best choise smarthome tech (private repo)
+- 👻 **[Jogja10k](https://github.com/sinukarta/jogja10k)** - Running Apps for Jogja10K.run "Every Step Tells a Story" (private repo)
+- 🚀 **[Loova](https://github.com/sinukarta/Loova)** - SmartApps Collaboration with BytePlus (private repo)
+- 📝 **[Koperasi Pandawa](https://github.com/sinukarta/KoperasiPandawa)** - Pandawa Koperasi UMKM Apps (private repo)
+- 🧮 **[Sales Monitoring Apps]** - Sales and Marketing Monitoring Apps (private repo)
+- 🧙‍♂️ **[Smart Slide AI](https://github.com/sinukarta/Smart-SlideAI)** - Smart Slides Apps (private repo)
 
 ## Current Experiments
 - Multi-agent AI systems
