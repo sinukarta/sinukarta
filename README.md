@@ -61,6 +61,17 @@
 * 📊 Data pipelines & analytics platforms
 * ⚙️ Internal tools & automation systems
 
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/sinukarta)
+
+## What I'm Doing
+
+- **Living in the future** - Learning and building tools to make agentic engineering faster for everyone
+- **Writing about AI workflows** - Sharing my learnings on [sinukarta.me](https://sinukarta.me)
+- **Rapid prototyping** - Full apps in days, not months
+- **[Speaking at conferences](https://github.com/sinukarta/speaking)** - On vibe coding vs agentic engineering and the future of development
+
 ---
 
 ## ⚙️ Tech Stack
