@@ -33,6 +33,7 @@
 - 📝 **[Koperasi Pandawa](https://github.com/sinukarta/KoperasiPandawa)** - Pandawa Koperasi UMKM Apps (private repo)
 - 🧮 **[Sales Monitoring Apps]** - Sales and Marketing Monitoring Apps (private repo)
 - 🧙‍♂️ **[Smart Slide AI](https://github.com/sinukarta/Smart-SlideAI)** - Smart Slides Apps (private repo)
+- 🚀 **[GOJJA](https://github.com/sinukarta/GOJJA---Travel-Marketplace)** - Smart Travel Apps AI Companion (private repo)
 
 ## Current Experiments
 - Multi-agent AI systems
