@@ -1,4 +1,251 @@
-## Hi there 👋
+## Hi, I'm Dyan 👋
+
+📍 Indonesia | 🧠 Technical IT Consultant | 🤖 AI, CV & System Architect | ⚙️ Builder
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![AI](https://img.shields.io/badge/-AI-000000?style=flat-square\&logo=openai\&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/-Computer_Vision-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+![Automation](https://img.shields.io/badge/-Automation-000000?style=flat-square\&logo=zapier\&logoColor=white)
+
+> I design and build scalable systems combining **AI, Computer Vision, and automation** to solve complex real-world business problems.
+
+---
+
+## 🧠 Focus
+
+* Designing **complex system architecture (enterprise-grade)**
+* Building **AI + LLM-powered systems**
+* Developing **Computer Vision solutions for real-world use**
+* Creating **end-to-end automation ecosystems**
+* Integrating **data, AI, and operations into unified systems**
+
+---
+
+## 🚀 Selected Projects
+
+> Real-world systems (adapted from client work — private repositories)
+
+* 🤖 **AI Decision Engine**
+  Multi-model LLM system (GPT, Claude, Gemini, etc) for business decision support
+  → Improved decision speed & consistency across teams
+
+* 👁️ **Computer Vision Monitoring System**
+  Real-time object detection & tracking (CCTV / video stream)
+  → Automated monitoring & anomaly detection
+
+* 📊 **Enterprise Data Intelligence Platform**
+  Unified data pipeline + dashboard + analytics system
+  → Eliminated fragmented data & enabled real-time insights
+
+* 🔗 **Distributed System Integration Layer**
+  API orchestration across CRM, internal tools, and AI services
+  → Scalable, modular architecture
+
+* ⚙️ **Automation Orchestration System**
+  Multi-trigger workflow automation across departments
+  → Reduced manual processes significantly
+
+---
+
+## 🛠️ What I Build
+
+* 🤖 AI systems (LLM, automation, decision engines)
+* 👁️ Computer Vision systems (detection, tracking, monitoring)
+* 🔌 API orchestration & distributed systems
+* 📊 Data pipelines & analytics platforms
+* ⚙️ Internal tools & automation systems
+
+---
+
+## ⚙️ Tech Stack
+
+### 💻 Core Development
+
+* JavaScript (Node.js)
+* React
+* PHP
+* Python
+* REST API Architecture
+
+### 🧠 AI / LLM Ecosystem
+
+* ChatGPT / Codex
+* Claude
+* Gemini
+* Perplexity
+* Grok
+* Manus
+* Genspark
+* BytePlus AI
+
+### 👁️ Computer Vision
+
+* OpenCV
+* Object Detection Models (YOLO, etc)
+* Image Processing Pipelines
+* Video Stream Processing
+
+### 🗄️ Data & Infrastructure
+
+* PostgreSQL
+* MySQL
+* Data Pipelines
+* Analytics Systems
+* Data Visualization
+
+### ⚙️ Automation & Integration
+
+* Workflow automation systems
+* API orchestration
+* System integration (multi-platform)
+
+---
+
+## 📊 Case Studies
+
+### 🤖 Multi-Model AI Decision System
+
+* Built system integrating multiple LLM providers
+* Implemented routing logic & response optimization
+* Designed fallback & reliability architecture
+
+**Result:**
+
+* Increased decision accuracy
+* Reduced dependency on single model
+* Improved system resilience
+
+---
+
+### 👁️ Computer Vision Surveillance System
+
+* Developed real-time object detection system
+* Integrated with CCTV infrastructure
+* Built alert & anomaly detection pipeline
+
+**Result:**
+
+* Automated monitoring processes
+* Reduced human intervention
+* Faster incident detection
+
+---
+
+### 📊 Enterprise Data Platform
+
+* Built centralized data pipeline
+* Integrated multiple business systems
+* Designed real-time dashboards
+
+**Result:**
+
+* Eliminated data silos
+* Faster reporting & insights
+* Improved strategic decisions
+
+---
+
+### ⚙️ Automation System (Cross-Department)
+
+* Designed event-driven automation workflows
+* Integrated CRM, internal tools, and AI
+* Built scalable orchestration layer
+
+**Result:**
+
+* Reduced manual workload significantly
+* Improved operational consistency
+* Increased efficiency across teams
+
+---
+
+### 🔗 System Integration Architecture
+
+* Built modular API-based architecture
+* Connected multiple platforms & services
+* Ensured scalability & maintainability
+
+**Result:**
+
+* Flexible system expansion
+* Easier integration for new services
+* Long-term scalability
+
+---
+
+## 🔬 How I Work
+
+> Complex systems require structured thinking
+
+1. Analyze system complexity & constraints
+2. Design scalable architecture
+3. Build modular systems
+4. Optimize with data & iteration
+
+---
+
+## 🎯 Who I Work With
+
+* Enterprise companies with complex system needs
+* SMEs scaling operations & infrastructure
+* Startups building advanced tech systems
+
+---
+
+## 📬 Work With Me
+
+I work with companies building **complex, scalable, and intelligent systems**.
+
+* 💼 LinkedIn: (add)
+* 🌐 Website: (add)
+* 📧 Email: (add)
+
+👉 Available for:
+
+* System Architecture
+* AI & LLM Implementation
+* Computer Vision Systems
+* Automation & Integration
+
+---
+
+## ⚡ Edge
+
+* Strong in **complex system design**
+* Combines **AI + CV + backend architecture**
+* Focus on **real-world implementation**
+* Builds systems that **scale in production**
+
+---
+
+## 🔭 Direction
+
+* AI-native system architecture
+* Autonomous business systems
+* Computer vision-driven automation
+* Distributed intelligent systems
+
+---
+
+## Philosophy
+
+> “Complex problems require system-level solutions.”
+
+<details>
+<summary>More</summary>
+
+* Build for scale from day one
+* Prefer modular architecture
+* Automation is a multiplier
+* AI is a system layer, not a feature
+
+</details>
 
 <!--
 **sinukarta/sinukarta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
