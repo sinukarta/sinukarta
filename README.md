@@ -23,6 +23,17 @@
 * Creating **end-to-end automation ecosystems**
 * Integrating **data, AI, and operations into unified systems**
 
+## Current Personal Projects
+
+- 🦞 **[OpenClaw](https://openclaw.ai)** - the AI that actually does things
+- 🤖 **[VisionAI™](https://github.com/sinukarta/VisionAI)** - Most Complex Dashboard and Backend Computer Vision colaboration with IOH™
+- 🎚️ **[Nara SmartHome™](https://github.com/sinukarta/smarthome)** - Your best choise smarthome tech
+- 👻 **[Jogja10k](https://github.com/sinukarta/jogja10k)** - Running Apps for Jogja10K.run "Every Step Tells a Story"
+- 🚀 **[Loova](https://github.com/sinukarta/Loova)** - SmartApps Collaboration with BytePlus
+- 📝 **[Koperasi Pandawa](https://github.com/sinukarta/KoperasiPandawa)** - Pandawa Koperasi UMKM Apps
+- 🧮 **[Sales Monitoring Apps]** - Sales and Marketing Monitoring Apps
+- 🧙‍♂️ **[Smart Slide AI](https://github.com/sinukarta/Smart-SlideAI)** - Smart Slides Apps
+
 ## 🚀 Selected Projects
 
 > Real-world systems (adapted from client work — private repositories)
