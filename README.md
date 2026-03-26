@@ -34,6 +34,11 @@
 - 🧮 **[Sales Monitoring Apps]** - Sales and Marketing Monitoring Apps
 - 🧙‍♂️ **[Smart Slide AI](https://github.com/sinukarta/Smart-SlideAI)** - Smart Slides Apps
 
+## Current Experiments
+- Multi-agent AI systems
+- Autonomous automation workflows
+- Computer vision + AI integration + Data Analytics
+
 ## 🚀 Selected Projects
 
 > Real-world systems (adapted from client work — private repositories)
