@@ -235,7 +235,7 @@ Mentoring and guiding startup founders on:
 I work with companies building **complex, scalable, and intelligent systems**.
 
 * 💼 LinkedIn: [(LinkedIn)](https://www.linkedin.com/in/sinukarta/)
-* 🌐 Website: [(Website)](https://www.sinukarta.me/)
+* 🌐 Website: [(Website)](https://sinukarta.github.io/)
 * 📧 Email: [(Email)](sinukarta@gmail.com)
 
 👉 Available for:
